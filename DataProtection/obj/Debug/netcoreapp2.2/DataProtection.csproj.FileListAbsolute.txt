@@ -1,0 +1,14 @@
+C:\Users\BAPURBA\source\repos\DataProtection\DataProtection\bin\Debug\netcoreapp2.2\DataProtection.deps.json
+C:\Users\BAPURBA\source\repos\DataProtection\DataProtection\bin\Debug\netcoreapp2.2\DataProtection.runtimeconfig.json
+C:\Users\BAPURBA\source\repos\DataProtection\DataProtection\bin\Debug\netcoreapp2.2\DataProtection.runtimeconfig.dev.json
+C:\Users\BAPURBA\source\repos\DataProtection\DataProtection\bin\Debug\netcoreapp2.2\DataProtection.dll
+C:\Users\BAPURBA\source\repos\DataProtection\DataProtection\obj\Debug\netcoreapp2.2\DataProtection.csprojAssemblyReference.cache
+C:\Users\BAPURBA\source\repos\DataProtection\DataProtection\obj\Debug\netcoreapp2.2\DataProtection.csproj.CoreCompileInputs.cache
+C:\Users\BAPURBA\source\repos\DataProtection\DataProtection\obj\Debug\netcoreapp2.2\DataProtection.RazorAssemblyInfo.cache
+C:\Users\BAPURBA\source\repos\DataProtection\DataProtection\obj\Debug\netcoreapp2.2\DataProtection.RazorAssemblyInfo.cs
+C:\Users\BAPURBA\source\repos\DataProtection\DataProtection\obj\Debug\netcoreapp2.2\DataProtection.AssemblyInfoInputs.cache
+C:\Users\BAPURBA\source\repos\DataProtection\DataProtection\obj\Debug\netcoreapp2.2\DataProtection.AssemblyInfo.cs
+C:\Users\BAPURBA\source\repos\DataProtection\DataProtection\obj\Debug\netcoreapp2.2\DataProtection.RazorTargetAssemblyInfo.cache
+C:\Users\BAPURBA\source\repos\DataProtection\DataProtection\bin\Debug\netcoreapp2.2\DataProtection.pdb
+C:\Users\BAPURBA\source\repos\DataProtection\DataProtection\obj\Debug\netcoreapp2.2\DataProtection.dll
+C:\Users\BAPURBA\source\repos\DataProtection\DataProtection\obj\Debug\netcoreapp2.2\DataProtection.pdb
